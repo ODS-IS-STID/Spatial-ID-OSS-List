@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>空間ID関連OSSリスト</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-main">
+    <div>
+      <h1 data-i18n="pageTitle">空間ID関連OSSリスト</h1>
+    </div>
+
+    <div class="lang-switch">
+      <label for="langSelect">Language</label>
+      <select id="langSelect" aria-label="Language">
+        <option value="ja">日本語</option>
+        <option value="en">English</option>
+      </select>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+
+  <h2 data-i18n="overviewTitle">概要</h2>
+  <p data-i18n="overviewBody">
+    本ページは、GitHub上で公開されている空間ID関連OSSの候補を自動収集し、リストとして表示するものです。
+  </p>
+
+  <p>
+    <strong data-i18n="generatedAtLabel">リスト生成日時：</strong><span id="generatedAt">読み込み中...</span>
+  </p>
+
+  <h2 data-i18n="methodTitle">作成方法</h2>
+  <ol class="method-list">
+    <li data-i18n="method1">
+      GitHub API を用いて、公開リポジトリからキーワードに一致する候補を収集します。
+    </li>
+    <li data-i18n="method2">
+      リポジトリ検索に加え、README等のMarkdownファイル検索からも候補を収集します。
+    </li>
+    <li data-i18n="method3">
+      候補リポジトリごとにメタデータとREADMEを取得し、検索対象項目にキーワードが含まれるかを確認します。
+    </li>
+    <li data-i18n="method4">
+      除外リストに登録されたリポジトリを除外し、Stars数及び更新日時を基準に並べ替えてリストデータを生成します。
+    </li>
+  </ol>
+
+  <h2 data-i18n="targetTitle">検索対象項目</h2>
+  <ul class="target-list">
+    <li data-i18n="target1">リポジトリ名（name）</li>
+    <li data-i18n="target2">リポジトリ概要（description）</li>
+    <li data-i18n="target3">Topics</li>
+    <li data-i18n="target4">README</li>
+  </ul>
+
+  <div class="keyword-box">
+    <strong data-i18n="keywordsLabel">使用キーワード：</strong>
+    <code>空間ID, 空間ＩＤ, spatial-id, spatialid</code>
+    <p class="keyword-note" data-i18n="keywordNote">
+      英字の大文字・小文字は区別せずに判定します。
+    </p>
+  </div>
+
+  <h2 data-i18n="linksTitle">関連リンク</h2>
+  <ul>
+    <li>
+      <a
+        href="https://www.ipa.go.jp/digital/architecture/guidelines/4dspatio-temporal-guideline.html"
+        target="_blank"
+        rel="noopener noreferrer"
+        data-i18n="guidelineLink"
+      >
+        4次元時空間情報利活用のための空間IDガイドライン
+      </a>
+    </li>
+    <li>
+      <a
+        href="https://github.com/ODS-IS-STID"
+        target="_blank"
+        rel="noopener noreferrer"
+        data-i18n="repoLink"
+      >
+        Open Data Spaces 4次元時空間ID 関連リポジトリ
+      </a>
+    </li>
+  </ul>
+
+  <h2 data-i18n="notesTitle">注意事項</h2>
+  <ul>
+    <li data-i18n="note1">本リストはキーワードに基づく自動収集により生成しています。</li>
+    <li data-i18n="note2">掲載されているリポジトリは、評価・推奨・認定を意味するものではありません。</li>
+    <li data-i18n="note3">キーワード検索の特性上、空間IDと直接関係しないリポジトリが含まれる場合があります。</li>
+    <li data-i18n="note4">GitHub API の仕様や検索条件により、すべての関連OSSを網羅できるとは限りません。</li>
+  </ul>
+
+  <h2 data-i18n="tableTitle">OSSリスト</h2>
+
+  <div class="table-wrap">
+    <table id="catalog">
+      <thead>
+        <tr>
+          <th data-i18n="colNo">No.</th>
+          <th data-i18n="colRepository">Repository</th>
+          <th data-i18n="colUrl">URL</th>
+          <th data-i18n="colDescription">Description</th>
+          <th data-i18n="colLanguage">Language</th>
+          <th id="sortStars" data-i18n="colStars">⭐ Stars</th>
+          <th data-i18n="colUpdated">Updated</th>
+          <th data-i18n="colTopics">Topics</th>
+          <th data-i18n="colLicense">License</th>
+          <th data-i18n="colFork">Fork</th>
+          <th data-i18n="colIssues">Issues</th>
+          <th data-i18n="colWatchers">Watchers</th>
+          <th data-i18n="colForks">Forks</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+</div>
+
+<footer></footer>
+
+<script src="script.js"></script>
+</body>
+</html>
