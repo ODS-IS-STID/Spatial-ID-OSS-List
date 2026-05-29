@@ -5,7 +5,7 @@
 本リポジトリは、GitHub上で公開されている空間ID（Spatial ID）関連OSSの候補を自動収集し、リストとして可視化するためのものです。
 
 公開ページ：
-https://aoshima-yuki.github.io/Spatial-ID-OSS-List/
+https://ods-is-stid.github.io/Spatial-ID-OSS-List/
 
 ---
 
