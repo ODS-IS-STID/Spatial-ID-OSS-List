@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T03:38:24.421506Z",
+  "generated_at": "2026-06-11T03:54:48.599087Z",
   "repo_count": 35,
   "repos": [
     {
@@ -350,7 +350,7 @@
       "description": "時空間IDについてRustで演算するライブラリ",
       "language": "Rust",
       "stars": 0,
-      "updated_at": "2026-06-09T12:46:28Z",
+      "updated_at": "2026-06-10T15:29:15Z",
       "topics": [],
       "license": {
         "key": "mit",
@@ -360,24 +360,9 @@
         "node_id": "MDc6TGljZW5zZTEz"
       },
       "fork": false,
-      "open_issues_count": 9,
+      "open_issues_count": 7,
       "watchers_count": 0,
       "forks_count": 2
-    },
-    {
-      "name": "Nazori",
-      "full_name": "AirBee-Project/Nazori",
-      "url": "https://github.com/AirBee-Project/Nazori",
-      "description": "CityGMLを空間IDに変換するプログラム",
-      "language": "Rust",
-      "stars": 0,
-      "updated_at": "2026-06-09T06:41:06Z",
-      "topics": [],
-      "license": null,
-      "fork": false,
-      "open_issues_count": 1,
-      "watchers_count": 0,
-      "forks_count": 0
     },
     {
       "name": "Spatial-ID-Catalog",
@@ -386,7 +371,7 @@
       "description": null,
       "language": "Python",
       "stars": 0,
-      "updated_at": "2026-06-09T03:35:10Z",
+      "updated_at": "2026-06-10T03:48:50Z",
       "topics": [],
       "license": null,
       "fork": false,
@@ -401,11 +386,26 @@
       "description": null,
       "language": "Python",
       "stars": 0,
-      "updated_at": "2026-06-09T03:26:27Z",
+      "updated_at": "2026-06-10T03:38:28Z",
       "topics": [],
       "license": null,
       "fork": false,
       "open_issues_count": 0,
+      "watchers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "Nazori",
+      "full_name": "AirBee-Project/Nazori",
+      "url": "https://github.com/AirBee-Project/Nazori",
+      "description": "CityGMLを空間IDに変換するプログラム",
+      "language": "Rust",
+      "stars": 0,
+      "updated_at": "2026-06-09T06:41:06Z",
+      "topics": [],
+      "license": null,
+      "fork": false,
+      "open_issues_count": 1,
       "watchers_count": 0,
       "forks_count": 0
     },
