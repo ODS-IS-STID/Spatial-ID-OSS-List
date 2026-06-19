@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T03:53:59.922281Z",
+  "generated_at": "2026-06-19T04:14:02.501455Z",
   "repo_count": 35,
   "repos": [
     {
@@ -119,11 +119,11 @@
       "description": "空間IDを扱う汎用データベースソフトウエア",
       "language": "Rust",
       "stars": 2,
-      "updated_at": "2026-06-17T09:51:04Z",
+      "updated_at": "2026-06-18T10:27:00Z",
       "topics": [],
       "license": null,
       "fork": false,
-      "open_issues_count": 0,
+      "open_issues_count": 12,
       "watchers_count": 2,
       "forks_count": 2
     },
@@ -344,6 +344,36 @@
       "forks_count": 0
     },
     {
+      "name": "Spatial-ID-Catalog",
+      "full_name": "aoshima-yuki/Spatial-ID-Catalog",
+      "url": "https://github.com/aoshima-yuki/Spatial-ID-Catalog",
+      "description": null,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2026-06-18T04:03:16Z",
+      "topics": [],
+      "license": null,
+      "fork": false,
+      "open_issues_count": 0,
+      "watchers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "Spatial-ID-OSS-List",
+      "full_name": "ODS-IS-STID/Spatial-ID-OSS-List",
+      "url": "https://github.com/ODS-IS-STID/Spatial-ID-OSS-List",
+      "description": null,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2026-06-18T03:54:04Z",
+      "topics": [],
+      "license": null,
+      "fork": false,
+      "open_issues_count": 0,
+      "watchers_count": 0,
+      "forks_count": 0
+    },
+    {
       "name": "Kasane-Logic",
       "full_name": "AirBee-Project/Kasane-Logic",
       "url": "https://github.com/AirBee-Project/Kasane-Logic",
@@ -360,39 +390,9 @@
         "node_id": "MDc6TGljZW5zZTEz"
       },
       "fork": false,
-      "open_issues_count": 7,
+      "open_issues_count": 8,
       "watchers_count": 0,
       "forks_count": 2
-    },
-    {
-      "name": "Spatial-ID-Catalog",
-      "full_name": "aoshima-yuki/Spatial-ID-Catalog",
-      "url": "https://github.com/aoshima-yuki/Spatial-ID-Catalog",
-      "description": null,
-      "language": "Python",
-      "stars": 0,
-      "updated_at": "2026-06-17T04:12:05Z",
-      "topics": [],
-      "license": null,
-      "fork": false,
-      "open_issues_count": 0,
-      "watchers_count": 0,
-      "forks_count": 0
-    },
-    {
-      "name": "Spatial-ID-OSS-List",
-      "full_name": "ODS-IS-STID/Spatial-ID-OSS-List",
-      "url": "https://github.com/ODS-IS-STID/Spatial-ID-OSS-List",
-      "description": null,
-      "language": "Python",
-      "stars": 0,
-      "updated_at": "2026-06-17T04:02:55Z",
-      "topics": [],
-      "license": null,
-      "fork": false,
-      "open_issues_count": 0,
-      "watchers_count": 0,
-      "forks_count": 0
     },
     {
       "name": "Nazori",
@@ -405,7 +405,7 @@
       "topics": [],
       "license": null,
       "fork": false,
-      "open_issues_count": 1,
+      "open_issues_count": 3,
       "watchers_count": 0,
       "forks_count": 0
     },
