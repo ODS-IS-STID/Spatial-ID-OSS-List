@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T03:42:21.725642Z",
+  "generated_at": "2026-06-29T03:50:33.383830Z",
   "repo_count": 35,
   "repos": [
     {
@@ -123,7 +123,7 @@
       "topics": [],
       "license": null,
       "fork": false,
-      "open_issues_count": 12,
+      "open_issues_count": 13,
       "watchers_count": 2,
       "forks_count": 2
     },
@@ -350,7 +350,7 @@
       "description": "時空間IDについてRustで演算するライブラリ",
       "language": "Rust",
       "stars": 0,
-      "updated_at": "2026-06-27T06:17:47Z",
+      "updated_at": "2026-06-28T22:01:43Z",
       "topics": [],
       "license": {
         "key": "mit",
@@ -360,9 +360,24 @@
         "node_id": "MDc6TGljZW5zZTEz"
       },
       "fork": false,
-      "open_issues_count": 9,
+      "open_issues_count": 10,
       "watchers_count": 0,
       "forks_count": 2
+    },
+    {
+      "name": "Nazori",
+      "full_name": "AirBee-Project/Nazori",
+      "url": "https://github.com/AirBee-Project/Nazori",
+      "description": "CityGMLを空間IDに変換するプログラム",
+      "language": "Rust",
+      "stars": 0,
+      "updated_at": "2026-06-28T20:29:03Z",
+      "topics": [],
+      "license": null,
+      "fork": false,
+      "open_issues_count": 0,
+      "watchers_count": 0,
+      "forks_count": 0
     },
     {
       "name": "Spatial-ID-Catalog",
@@ -371,7 +386,7 @@
       "description": null,
       "language": "Python",
       "stars": 0,
-      "updated_at": "2026-06-27T03:31:19Z",
+      "updated_at": "2026-06-28T03:54:34Z",
       "topics": [],
       "license": null,
       "fork": false,
@@ -386,26 +401,11 @@
       "description": null,
       "language": "Python",
       "stars": 0,
-      "updated_at": "2026-06-27T02:59:07Z",
+      "updated_at": "2026-06-28T03:42:25Z",
       "topics": [],
       "license": null,
       "fork": false,
       "open_issues_count": 0,
-      "watchers_count": 0,
-      "forks_count": 0
-    },
-    {
-      "name": "Nazori",
-      "full_name": "AirBee-Project/Nazori",
-      "url": "https://github.com/AirBee-Project/Nazori",
-      "description": "CityGMLを空間IDに変換するプログラム",
-      "language": "Rust",
-      "stars": 0,
-      "updated_at": "2026-06-16T07:30:16Z",
-      "topics": [],
-      "license": null,
-      "fork": false,
-      "open_issues_count": 3,
       "watchers_count": 0,
       "forks_count": 0
     },
