@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T03:03:25.424389Z",
+  "generated_at": "2026-09-06T03:03:26.679895Z",
   "repo_count": 36,
   "repos": [
     {
@@ -344,6 +344,57 @@
       "forks_count": 0
     },
     {
+      "name": "Kasane-Logic",
+      "full_name": "AirBee-Project/Kasane-Logic",
+      "url": "https://github.com/AirBee-Project/Kasane-Logic",
+      "description": "時空間IDについてRustで演算するライブラリ",
+      "language": "Rust",
+      "stars": 0,
+      "updated_at": "2026-09-05T14:07:11Z",
+      "topics": [],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "fork": false,
+      "open_issues_count": 12,
+      "watchers_count": 0,
+      "forks_count": 2
+    },
+    {
+      "name": "Spatial-ID-Catalog",
+      "full_name": "aoshima-yuki/Spatial-ID-Catalog",
+      "url": "https://github.com/aoshima-yuki/Spatial-ID-Catalog",
+      "description": null,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2026-09-05T03:17:23Z",
+      "topics": [],
+      "license": null,
+      "fork": false,
+      "open_issues_count": 0,
+      "watchers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "Spatial-ID-OSS-List",
+      "full_name": "ODS-IS-STID/Spatial-ID-OSS-List",
+      "url": "https://github.com/ODS-IS-STID/Spatial-ID-OSS-List",
+      "description": null,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2026-09-05T03:03:29Z",
+      "topics": [],
+      "license": null,
+      "fork": false,
+      "open_issues_count": 0,
+      "watchers_count": 0,
+      "forks_count": 0
+    },
+    {
       "name": "spatial-ide",
       "full_name": "christopherdonini/spatial-ide",
       "url": "https://github.com/christopherdonini/spatial-ide",
@@ -363,57 +414,6 @@
       "open_issues_count": 1,
       "watchers_count": 0,
       "forks_count": 0
-    },
-    {
-      "name": "Spatial-ID-Catalog",
-      "full_name": "aoshima-yuki/Spatial-ID-Catalog",
-      "url": "https://github.com/aoshima-yuki/Spatial-ID-Catalog",
-      "description": null,
-      "language": "Python",
-      "stars": 0,
-      "updated_at": "2026-09-04T03:14:35Z",
-      "topics": [],
-      "license": null,
-      "fork": false,
-      "open_issues_count": 0,
-      "watchers_count": 0,
-      "forks_count": 0
-    },
-    {
-      "name": "Spatial-ID-OSS-List",
-      "full_name": "ODS-IS-STID/Spatial-ID-OSS-List",
-      "url": "https://github.com/ODS-IS-STID/Spatial-ID-OSS-List",
-      "description": null,
-      "language": "Python",
-      "stars": 0,
-      "updated_at": "2026-09-04T03:02:14Z",
-      "topics": [],
-      "license": null,
-      "fork": false,
-      "open_issues_count": 0,
-      "watchers_count": 0,
-      "forks_count": 0
-    },
-    {
-      "name": "Kasane-Logic",
-      "full_name": "AirBee-Project/Kasane-Logic",
-      "url": "https://github.com/AirBee-Project/Kasane-Logic",
-      "description": "時空間IDについてRustで演算するライブラリ",
-      "language": "Rust",
-      "stars": 0,
-      "updated_at": "2026-09-02T03:33:05Z",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "fork": false,
-      "open_issues_count": 14,
-      "watchers_count": 0,
-      "forks_count": 2
     },
     {
       "name": "Nazori",
