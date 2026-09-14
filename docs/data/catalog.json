@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:18:36.387605Z",
+  "generated_at": "2026-09-14T03:30:16.543341Z",
   "repo_count": 37,
   "repos": [
     {
@@ -267,7 +267,7 @@
       "description": "時空間IDについてRustで演算するライブラリ",
       "language": "Rust",
       "stars": 1,
-      "updated_at": "2026-09-12T13:55:24Z",
+      "updated_at": "2026-09-14T00:45:53Z",
       "topics": [],
       "license": {
         "key": "mit",
@@ -277,7 +277,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
       },
       "fork": false,
-      "open_issues_count": 14,
+      "open_issues_count": 12,
       "watchers_count": 1,
       "forks_count": 2
     },
@@ -365,13 +365,34 @@
       "forks_count": 0
     },
     {
+      "name": "spatial-ide",
+      "full_name": "christopherdonini/spatial-ide",
+      "url": "https://github.com/christopherdonini/spatial-ide",
+      "description": null,
+      "language": "Rust",
+      "stars": 0,
+      "updated_at": "2026-09-14T00:03:34Z",
+      "topics": [],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "fork": false,
+      "open_issues_count": 3,
+      "watchers_count": 0,
+      "forks_count": 0
+    },
+    {
       "name": "Spatial-ID-Catalog",
       "full_name": "aoshima-yuki/Spatial-ID-Catalog",
       "url": "https://github.com/aoshima-yuki/Spatial-ID-Catalog",
       "description": null,
       "language": "Python",
       "stars": 0,
-      "updated_at": "2026-09-12T03:26:57Z",
+      "updated_at": "2026-09-13T03:33:13Z",
       "topics": [],
       "license": null,
       "fork": false,
@@ -386,32 +407,11 @@
       "description": null,
       "language": "Python",
       "stars": 0,
-      "updated_at": "2026-09-12T03:14:31Z",
+      "updated_at": "2026-09-13T03:18:40Z",
       "topics": [],
       "license": null,
       "fork": false,
       "open_issues_count": 0,
-      "watchers_count": 0,
-      "forks_count": 0
-    },
-    {
-      "name": "spatial-ide",
-      "full_name": "christopherdonini/spatial-ide",
-      "url": "https://github.com/christopherdonini/spatial-ide",
-      "description": null,
-      "language": "Rust",
-      "stars": 0,
-      "updated_at": "2026-09-11T10:21:35Z",
-      "topics": [],
-      "license": {
-        "key": "other",
-        "name": "Other",
-        "spdx_id": "NOASSERTION",
-        "url": null,
-        "node_id": "MDc6TGljZW5zZTA="
-      },
-      "fork": false,
-      "open_issues_count": 3,
       "watchers_count": 0,
       "forks_count": 0
     },
