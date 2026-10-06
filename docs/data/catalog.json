@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T04:12:05.181125Z",
+  "generated_at": "2026-10-06T05:00:15.987933Z",
   "repo_count": 38,
   "repos": [
     {
@@ -386,7 +386,7 @@
       "description": "An AI-native spatial computing platform: a headless spatial kernel, designed so that the UI, CLI, notebooks and AI are all clients of it. v0.1.0 is a Windows prototype — open a GeoParquet, filter it in SQL, style it, publish a static interactive bundle. AGPL-3.0-or-later core; the SKP protocol and file formats are open.",
       "language": "Rust",
       "stars": 0,
-      "updated_at": "2026-10-05T01:13:26Z",
+      "updated_at": "2026-10-06T04:55:57Z",
       "topics": [
         "agpl",
         "deck-gl",
@@ -411,7 +411,7 @@
         "node_id": "MDc6TGljZW5zZTA="
       },
       "fork": false,
-      "open_issues_count": 1,
+      "open_issues_count": 0,
       "watchers_count": 0,
       "forks_count": 0
     },
@@ -422,7 +422,7 @@
       "description": null,
       "language": "Python",
       "stars": 0,
-      "updated_at": "2026-10-04T04:39:29Z",
+      "updated_at": "2026-10-05T04:26:18Z",
       "topics": [],
       "license": null,
       "fork": false,
@@ -437,7 +437,7 @@
       "description": null,
       "language": "Python",
       "stars": 0,
-      "updated_at": "2026-10-04T04:25:42Z",
+      "updated_at": "2026-10-05T04:12:09Z",
       "topics": [],
       "license": null,
       "fork": false,
